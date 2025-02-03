@@ -1,0 +1,1 @@
+Podany w repozytorium skrypt nie działa jednak zadanie zostało w wiekszosci zrobione (w folderze znajduje sie dockerfile który uruchamia skrypt)

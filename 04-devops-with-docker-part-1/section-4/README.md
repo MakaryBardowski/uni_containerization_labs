@@ -1,0 +1,2 @@
+brak screenshotow ze wzgledu na niedzialajacy skrypt z zad 1.7 (na ktorym to zadanie bazuje). W repozytorium zalaczony jest zmieniony dockerfile.
+po zmianach z CMD na ENTRYPOINT mozemy nadpisac parametry podawane do nowego entrypointa (a zatem skryptu)
