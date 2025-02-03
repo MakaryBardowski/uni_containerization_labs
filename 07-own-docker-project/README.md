@@ -1,0 +1,2 @@
+[link do repozytorium z projektem](https://github.com/MakaryBardowski/snotify_zaliczenie)
+projekt uruchamiany jest za pomoca docker compose (instruckje w repozytorium w linku), posiada frontend, backend oraz bazę danych.
